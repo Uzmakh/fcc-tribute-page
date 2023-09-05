@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+#main{
+    max-width: 900px;
+    margin: 2rem auto;
+}
+#main h1, p{
+    text-align: center;
+}
+img{
+width: 100%;
+max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 25px auto 0;
+}
+#img-caption{
+/* border: 1px solid red; */
+margin-left: 10px;
+}
